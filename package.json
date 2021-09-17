@@ -1,0 +1,21 @@
+{
+  "name": "group8",
+  "version": "1.0.0",
+  "description": "An app to encourage people to express adequacy of accessability",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/carloskruger/team8-node"
+  },
+  "keywords": [
+    "accessability"
+  ],
+  "author": "group8",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
